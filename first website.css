@@ -1,0 +1,21 @@
+.nav{
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align: baseline;
+	font-weight: bold;
+	font-family: calibri;
+	font-size: 16px;
+}
+.navbar-brand{
+	font-family: calibri;
+	font-size: 20px;
+	font-weight: bold;
+}
+.parallax{
+	background-image:url("36215894-beautiful-pictures.jpg");
+	min-height: 613px;
+	background-position: 49%0px;
+}
